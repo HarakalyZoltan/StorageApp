@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">StorageApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Add Item</string>
+    <string name="enter_item">Enter Item</string>
+    <string name="hint_item">Name</string>
+    <string name="hint_qty">Quantity</string>
+    <string name="hint_color">Color</string>
+    <string name="hint_size">Size</string>
+    <string name="Save_button">Save</string>
+    <string name="db_drop">DROP TABLE IF EXITS</string>
+    <string name="sure_text">Are you sure?</string>
+    <string name="no_text">No</string>
+    <string name="yes_text">YES</string>
+    <string name="edit_time">Edit item</string>
+    <string name="update_text">Update</string>
+</resources>
